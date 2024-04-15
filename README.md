@@ -1,5 +1,7 @@
 # Solvent Accessible Surface Area for Proteins
 
+## Akash Das(20CS10006) Rudrak Patra(20CS3)
+
 ## Summary
 
 This report provides a comprehensive overview of Solvent Accessible Surface Area (SASA) for proteins. SASA is a critical parameter in protein science, influencing various physico-chemical and thermodynamic properties. The report covers the definition, significance, and calculation methods of SASA, along with its applications in protein structure prediction, protein-protein interactions, and drug design.
