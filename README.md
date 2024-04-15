@@ -1,6 +1,6 @@
 # Solvent Accessible Surface Area for Proteins
 
-## Akash Das(20CS10006) Rudrak Patra(20CS3)
+## Akash Das(20CS10006) Rudrak Patra(20CS30044)
 
 ## Summary
 
