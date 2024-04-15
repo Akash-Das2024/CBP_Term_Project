@@ -41,8 +41,6 @@ Additionally, the report provides insights into recent research findings and app
 | 11    | SABLE    | Linear regression based method for RSA prediction | [http://sable.cchmc.org](http://sable.cchmc.org) | CHRF, Cincinnati, U.S.A |
 
 
-Github Link: [SASA for Proteins](https://github.com/Akash-Das2024/CBP_Term_Project)
-
 ## References
 
 1. [A Review of Methods Available to Estimate Solvent-Accessible Surface Areas of Soluble Proteins in the Folded and Unfolded States](https://www.researchgate.net/publication/261217248_A_Review_of_Methods_Available_to_Estimate_Solvent-Accessible_Surface_Areas_of_Soluble_Proteins_in_the_Folded_and_Unfolded_States)
@@ -52,3 +50,9 @@ Github Link: [SASA for Proteins](https://github.com/Akash-Das2024/CBP_Term_Proje
 5. [GETAREA](https://curie.utmb.edu/getarea.html)
 6. [DSSP](https://en.wikipedia.org/wiki/DSSP_(algorithm))
 7. [ProtSA](http://webapps.bifi.es/protsa)
+
+
+
+
+## Our Github Link:
+[SASA for Proteins](https://github.com/Akash-Das2024/CBP_Term_Project)
