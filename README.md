@@ -14,13 +14,13 @@ Additionally, the report provides insights into recent research findings and app
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <img src="fig1.jpeg" alt="Cross-section of a macromolecule" style="width:50%;">
-  <p style="text-align:center;">Fig. 1: A cross-section of a part of a macromolecule in space rolling probe, van der Waals and accessible surface areas are indicated.</p>
 </div>
+<p style="text-align:center;">Fig. 1: A cross-section of a part of a macromolecule in space rolling probe, van der Waals and accessible surface areas are indicated.</p>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <img src="fig2.png" alt="Three-dimensional representation of SASA" style="width:50%;">
-  <p style="text-align:center;">Fig. 2: Three-dimensional representation of SASA of a protein on which water molecule is rolling (Green). The relative size of water molecule can be compared with nitrogen (blue) and oxygen (red).</p>
 </div>
+<p style="text-align:center;">Fig. 2: Three-dimensional representation of SASA of a protein on which water molecule is rolling (Green). The relative size of water molecule can be compared with nitrogen (blue) and oxygen (red).</p>
 
 
 ## References
