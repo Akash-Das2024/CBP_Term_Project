@@ -12,10 +12,10 @@ Additionally, the report provides insights into recent research findings and app
 
 ## Images
 
-![Cross-section of a macromolecule](bio1.png)
+![Cross-section of a macromolecule](fig1.jpeg)
 *Fig. 1: A cross-section of a part of a macromolecule in space rolling probe, van der Waals and accessible surface areas are indicated.*
 
-![Three-dimensional representation of SASA](bio2.png)
+![Three-dimensional representation of SASA](fig2.png)
 *Fig. 2: Three-dimensional representation of SASA of a protein on which water molecule is rolling (Green). The relative size of water molecule can be compared with nitrogen (blue) and oxygen (red).*
 
 ## References
