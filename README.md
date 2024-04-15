@@ -22,6 +22,22 @@ Additionally, the report provides insights into recent research findings and app
 </div>
 <p style="text-align:center;">Fig. 2: Three-dimensional representation of SASA of a protein on which water molecule is rolling (Green). The relative size of water molecule can be compared with nitrogen (blue) and oxygen (red).</p>
 
+## Online Resources to Calculate SASA of Proteins/Residues
+
+| S.No. | Program | Specification | URL | Developer |
+|-------|---------|---------------|-----|-----------|
+| 1     | PDBePISA | Gives residue SASA for folded state of protein | [http://www.ebi.ac.uk/msdsrv/prot\_int/pistart.html](http://www.ebi.ac.uk/msdsrv/prot_int/pistart.html) | EBI (EMBL), U.K. |
+| 2     | CCP4*    | Complete structure analysis suite | [http://www.ccp4.ac.uk/](http://www.ccp4.ac.uk/) | RcaH, STFC Rutherford A. Labs, U.K. |
+| 3     | ProtSA   | Sequence specific average SASA of unfolded ensemble | [http://oldwebapps.bifi.es/protSA/](http://oldwebapps.bifi.es/protSA/) | BIFI, Spain |
+| 4     | GETAREA  | Analytical calculation of SASA based on MC simulation | [http://curie.utmb.edu/getarea.html](http://curie.utmb.edu/getarea.html) | SCSB, University of Texas, U.S.A. |
+| 5     | DSSP     | Database of secondary structure assignments | [http://swift.cmbi.ru.nl/gv/dssp/](http://swift.cmbi.ru.nl/gv/dssp/) | CMBI, Nijmegen, Netherlands |
+| 6     | NACCESS  | Calculates atomic and residue ASA for proteins and nucleic acids | [http://wolf.bms.umist.ac.uk/naccess/](http://wolf.bms.umist.ac.uk/naccess/) | University of Manchester, U.K. |
+| 7     | ACCESS   | Gives SASA of backbone and side chain atom of each residue | [http://www.csb.yale.edu/](http://www.csb.yale.edu/) | Yale University, U.S.A |
+| 8     | POPS-R   | Fast and analytical method, residue based approach for large assemblies like ribosomes | [http://mathbio.nimr.mrc.ac.uk/~ffranca/POPS](http://mathbio.nimr.mrc.ac.uk/~ffranca/POPS) | NIMR, London, U.K. |
+| 9     | SERF     | Facilitates the use of SASA in structure analysis like changes during binding and complexation | [http://guitar.rockefeller.edu/pub/jpo/serf.tar](http://guitar.rockefeller.edu/pub/jpo/serf.tar) | DPMS, U.K. |
+| 10    | ASAP     | SVM based tool for calculating SASA of transmembrane residues | [http://ccb.imb.uq.edu.au/ASAP/](http://ccb.imb.uq.edu.au/ASAP/) | University of Queensland, Australia |
+| 11    | SABLE    | Linear regression based method for RSA prediction | [http://sable.cchmc.org](http://sable.cchmc.org) | CHRF, Cincinnati, U.S.A |
+
 
 ## References
 
