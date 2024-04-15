@@ -56,3 +56,4 @@ Additionally, the report provides insights into recent research findings and app
 
 ## Our Github Link:
 [SASA for Proteins](https://github.com/Akash-Das2024/CBP_Term_Project)
+[Report](https://www.overleaf.com/project/661be85a4acead6a1ed34a96)
